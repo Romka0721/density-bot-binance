@@ -1,0 +1,1 @@
+symblo_list = ['SUIUSDT', 'SOLUSDT']
